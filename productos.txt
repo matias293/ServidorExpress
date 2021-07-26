@@ -1,0 +1,17 @@
+[
+    {
+        "title" :"Escuadra",
+        "price" : 123,
+        "thumbnail": "https://media.tycsports.com/files/2019/08/09/65155/modo-romero.jpeg"
+    },
+    {
+        "title" :"Calculadora",
+        "price" : 51,
+        "thumbnail": "https://media.tycsports.com/files/2019/08/09/65155/modo-romero.jpeg"
+    },
+    {
+        "title" :"Regla",
+        "price" : 31,
+        "thumbnail": "https://media.tycsports.com/files/2019/08/09/65155/modo-romero.jpeg"
+    }
+]
